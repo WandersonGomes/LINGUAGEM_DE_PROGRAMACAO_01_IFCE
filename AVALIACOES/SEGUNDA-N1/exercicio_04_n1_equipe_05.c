@@ -21,8 +21,14 @@ mercadoria. Minhas mercadorias com o estoque de um mês atrás são:
     Obs2. Usar o laço de repetição for.
 */
 #include <stdio.h>
+#include <string.h>
 
 int main() {
+    int estoque[5], i = 0;
+
+    while (1) {
+        printf("")
+    }
 
     return 0;
 }
